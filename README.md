@@ -2,12 +2,12 @@
   <tr>
     <td>
       <a href="#TOP">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cozinc&layout=compact&hide=VHDL,javascript&langs_count=8&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shazengchao&layout=compact&hide=VHDL,javascript&langs_count=8&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
       </a>
     </td>
     <td>
       <a href="#TOP">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cozinc&count_private=true&show_icons=true&theme=buefy&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shazengchao&count_private=true&show_icons=true&theme=buefy&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
       </a>
     </td>
   </tr>
